@@ -3,3 +3,4 @@
 自分のリポジトリで更新
 rebase practiceブランチで更新(rebase conflict)
 rebase-pull用
+For stash conflict 
